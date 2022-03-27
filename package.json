@@ -1,0 +1,29 @@
+{
+  "name": "okjike.online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yes1am/okjike.online.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yes1am/okjike.online/issues"
+  },
+  "homepage": "https://github.com/yes1am/okjike.online#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "eslint-config-egg": "^11.0.1"
+  }
+}
